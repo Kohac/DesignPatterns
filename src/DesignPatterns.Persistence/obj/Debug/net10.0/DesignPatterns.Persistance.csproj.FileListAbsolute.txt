@@ -1,0 +1,11 @@
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Persistance\bin\Debug\net10.0\DesignPatterns.Persistance.deps.json
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Persistance\bin\Debug\net10.0\DesignPatterns.Persistance.dll
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Persistance\bin\Debug\net10.0\DesignPatterns.Persistance.pdb
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Persistance\obj\Debug\net10.0\DesignPatterns.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Persistance\obj\Debug\net10.0\DesignPatterns.Persistance.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Persistance\obj\Debug\net10.0\DesignPatterns.Persistance.AssemblyInfo.cs
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Persistance\obj\Debug\net10.0\DesignPatterns.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Persistance\obj\Debug\net10.0\DesignPatterns.Persistance.dll
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Persistance\obj\Debug\net10.0\refint\DesignPatterns.Persistance.dll
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Persistance\obj\Debug\net10.0\DesignPatterns.Persistance.pdb
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Persistance\obj\Debug\net10.0\ref\DesignPatterns.Persistance.dll

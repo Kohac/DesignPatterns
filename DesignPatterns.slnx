@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DesignPatterns.Api/DesignPatterns.Api.csproj" />
+    <Project Path="src/DesignPatterns.Application/DesignPatterns.Application.csproj" />
+    <Project Path="src\DesignPatterns.Persistence\DesignPatterns.Persistence.csproj" Type="Classic C#" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DesignPatterns.Tests/DesignPatterns.Tests.csproj" />
+  </Folder>
+</Solution>

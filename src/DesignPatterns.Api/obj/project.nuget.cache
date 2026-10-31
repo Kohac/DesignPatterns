@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QWdszGeY1Ls=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukas\\source\\repos\\projects\\DesignPatterns\\src\\DesignPatterns.Api\\DesignPatterns.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\scalar.aspnetcore\\2.18.7\\scalar.aspnetcore.2.18.7.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\scalar.aspnetcore.microsoft\\2.18.7\\scalar.aspnetcore.microsoft.2.18.7.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.3.1\\swashbuckle.aspnetcore.swaggerui.10.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

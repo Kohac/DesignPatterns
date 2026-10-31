@@ -1,0 +1,13 @@
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Application\bin\Debug\net10.0\DesignPatterns.Application.deps.json
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Application\bin\Debug\net10.0\DesignPatterns.Application.dll
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Application\bin\Debug\net10.0\DesignPatterns.Application.pdb
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Application\bin\Debug\net10.0\DesignPatterns.Application.xml
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Application\obj\Debug\net10.0\DesignPatterns.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Application\obj\Debug\net10.0\DesignPatterns.Application.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Application\obj\Debug\net10.0\DesignPatterns.Application.AssemblyInfo.cs
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Application\obj\Debug\net10.0\DesignPatterns.Application.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Application\obj\Debug\net10.0\DesignPatterns.Application.dll
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Application\obj\Debug\net10.0\refint\DesignPatterns.Application.dll
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Application\obj\Debug\net10.0\DesignPatterns.Application.xml
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Application\obj\Debug\net10.0\DesignPatterns.Application.pdb
+C:\Users\lukas\source\repos\projects\DesignPatterns\src\DesignPatterns.Application\obj\Debug\net10.0\ref\DesignPatterns.Application.dll
