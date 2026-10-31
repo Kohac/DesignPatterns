@@ -1,6 +1,38 @@
-@DesignPatterns.Api_HostAddress = http://localhost:5108
+### Email - expected 204
+POST {{host}}/Strategy/Notifications
+Content-Type: application/json
 
-GET {{DesignPatterns.Api_HostAddress}}/weatherforecast/
-Accept: application/json
+{
+  "notification": {
+    "recipient": "test@example.com",
+    "subject": "Order created",
+    "message": "Your order is ready.",
+    "channel": "Email"
+  }
+}
 
-###
+### SMS - expected 204
+POST {{host}}/Strategy/Notifications
+Content-Type: application/json
+
+{
+  "notification": {
+    "recipient": "+420123456789",
+    "subject": "",
+    "message": "Your code is 123456.",
+    "channel": "Sms"
+  }
+}
+
+### Invalid channel - expected 400
+POST {{host}}/Strategy/Notifications
+Content-Type: application/json
+
+{
+  "notification": {
+    "recipient": "test@example.com",
+    "subject": "Order created",
+    "message": "Your order is ready.",
+    "channel": 999
+  }
+}
