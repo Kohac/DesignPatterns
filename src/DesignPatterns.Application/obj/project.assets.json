@@ -211,6 +211,7 @@
         },
         "centralPackageVersions": {
           "coverlet.collector": "6.0.4",
+          "Microsoft.AspNetCore.Mvc.Testing": "10.0.0",
           "Microsoft.AspNetCore.OpenApi": "10.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "10.0.0",
           "Microsoft.NET.Test.Sdk": "17.14.1",

@@ -2,19 +2,22 @@ using System.Text.Json.Serialization;
 using DesignPatterns.Api.Configuration;
 using DesignPatterns.Api.Controller;
 
-WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.ConfigureHttpJsonOptions(options =>
-    options.SerializerOptions.Converters.Add(new JsonStringEnumConverter()));
-builder.Services.AddValidation();
-builder.Services.AddOpenApi()
-    .AddStrategyConfiguration();
+builder.Services
+    .AddOpenApi()
+    .ConfigureHttpJsonOptions(options => options.SerializerOptions.Converters.Add(new JsonStringEnumConverter()))
+    .AddValidation()
+    .AddStrategyConfiguration()
+    .AddDecoratorConfiguration(Path.Combine(builder.Environment.ContentRootPath, "reports"));
 
-WebApplication app = builder
+builder
     .Build()
     .UseOpenApiConfiguration()
-    .RegisterStrategy();
+    .RegisterStrategyControllers()
+    .RegisterDecoratorControllers()
+    .UseMiddlewareConfiguration()
+    .Run();
 
-app.UseHttpsRedirection();
-
-app.Run();
+// Entry point for WebApplicationFactory integration tests.
+public partial class Program { }

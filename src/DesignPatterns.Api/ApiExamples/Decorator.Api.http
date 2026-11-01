@@ -1,0 +1,17 @@
+### Decorator - saves sales.txt.gz; SGVsbG8= is Base64 for Hello
+POST {{host}}/Decorator/Reports
+Content-Type: application/json
+
+{
+    "name": "sales.txt",
+    "content": "SGVsbG8="
+}
+
+### Decorator - invalid path, expected 400
+POST {{host}}/Decorator/Reports
+Content-Type: application/json
+
+{
+    "name": "../sales.txt",
+    "content": "SGVsbG8="
+}
